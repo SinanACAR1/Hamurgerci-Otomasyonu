@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\bin\Debug\hamurgerci-otomasyon.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\bin\Debug\hamurgerci-otomasyon.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\bin\Debug\hamurgerci-otomasyon.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\obj\Debug\hamurgerci-otomasyon.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\obj\Debug\hamurgerci_otomasyon.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\obj\Debug\hamurgerci_otomasyon.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\obj\Debug\hamurgerci-otomasyon.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\obj\Debug\hamurgerci-otomasyon.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\hamurgerci-otomasyon\hamurgerci-otomasyon\obj\Debug\hamurgerci-otomasyon.pdb
